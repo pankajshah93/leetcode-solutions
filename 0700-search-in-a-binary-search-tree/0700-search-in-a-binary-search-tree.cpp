@@ -10,23 +10,20 @@
  * };
  */
 class Solution {
-public:
-     TreeNode* search(TreeNode* root, int val){
-        if(!root){
-            return NULL;
-        }
-        if(val == root->val){
+public:  
+    TreeNode* searchBST(TreeNode* root, int val){
+          if(!root)  return NULL;
+
+        if(val == root->val)
+
             return root;
-        }
+        
         if(val < root->val){
+
             TreeNode* temp = searchBST(root->left,val);
-            if(temp){
-                return temp;
-            }
+            
+            if(temp)  return temp;
         }
         return searchBST(root->right,val);
-     }    
-    TreeNode* searchBST(TreeNode* root, int val){
-        return search(root,val);
     }
 };
