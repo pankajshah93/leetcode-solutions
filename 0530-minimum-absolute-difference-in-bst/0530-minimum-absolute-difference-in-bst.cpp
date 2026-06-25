@@ -18,8 +18,6 @@ public:
         mindif(root->left,ans);
         ans.push_back(root->val);
         mindif(root->right,ans);
-        
-       
     }
     int getMinimumDifference(TreeNode* root) {
        vector<int>ans;
