@@ -11,21 +11,20 @@
  */
 class Solution {
 public:
-    void mindif(TreeNode* root , vector<int>&ans){
+    void mindif(TreeNode* root , int &prev,int &mindiff){
         if(!root){
             return;
         }
-        mindif(root->left,ans);
-        ans.push_back(root->val);
-        mindif(root->right,ans);
+        mindif(root->left,prev,mindiff);
+        if(prev != INT_MIN)
+        mindiff = min(mindiff,abs(prev - root->val));
+        prev = root->val;
+        mindif(root->right,prev,mindiff);
     }
     int getMinimumDifference(TreeNode* root) {
-       vector<int>ans;
-       mindif(root,ans);
-       int res = INT_MAX;
-        for(int i =1 ; i < ans.size() ;i++){
-            res = min(res, abs(ans[i-1] - ans[i]));
-        }
-        return res;
+       int prev = INT_MIN;
+       int mindiff = INT_MAX;
+       mindif(root,prev,mindiff);
+        return mindiff;
     }
 };
