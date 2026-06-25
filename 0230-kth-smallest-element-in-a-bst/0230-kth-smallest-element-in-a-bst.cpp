@@ -11,18 +11,22 @@
  */
 class Solution {
 public:
-    void smallest(TreeNode* root,vector<int>&ans){
+    void smallest(TreeNode* root,int &k,int&result){
         if(!root){
             return;
         }
-        smallest(root->left,ans);
-        ans.push_back(root->val);
-        smallest(root->right,ans);
+        smallest(root->left,k,result);
+        k--;
+        if(k==0){
+            result= root->val;
+            return;
+        }
+        smallest(root->right,k,result);
         
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>ans;
-        smallest(root,ans);
-        return ans[k-1];
+        int result = 0;
+         smallest(root,k,result);
+         return result;
     }
 };
