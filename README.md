@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
