@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pankajshah93/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pankajshah93/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pankajshah93/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
