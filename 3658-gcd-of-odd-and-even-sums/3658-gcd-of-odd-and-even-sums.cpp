@@ -15,9 +15,7 @@ public:
         int ans = 0;
         for(int i = 1; i <= sumodd;i++){
            if((sumeven % i == 0) && (sumodd % i == 0)){
-                if(ans < i){
-                    ans  = i;
-                }
+                if(ans < i) ans  = i;
            }
         }
         return ans;
