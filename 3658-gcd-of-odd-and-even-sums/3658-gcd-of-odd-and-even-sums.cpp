@@ -12,14 +12,8 @@ public:
             sumeven = sumeven + even;
             n--; 
         }
-        int num = 0;
-        if(sumeven > sumodd){
-            num = sumodd;
-        }else{
-            num = sumeven;
-        }
         int ans = 0;
-        for(int i = 1; i <= num;i++){
+        for(int i = 1; i <= sumodd;i++){
            if((sumeven % i == 0) && (sumodd % i == 0)){
                 if(ans < i){
                     ans  = i;
