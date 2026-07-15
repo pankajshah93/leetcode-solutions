@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pankajshah93/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pankajshah93/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
