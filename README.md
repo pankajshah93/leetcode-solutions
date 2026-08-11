@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pankajshah93/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0001-two-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/pankajshah93/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/pankajshah93/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
 |  |
 | ------- |
@@ -152,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
