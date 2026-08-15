@@ -5,7 +5,7 @@ public:
         int left =0 ,right = 0;
         long long count = 0;
         int MaxVal = nums[0];
-        long long freq = 0;
+        int freq = 0;
         for(int x : nums){
             MaxVal = max(MaxVal , x);
         }
