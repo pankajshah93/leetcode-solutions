@@ -7,7 +7,7 @@ public:
         int sum = 0;
         while(right < n){
             sum += nums[right];
-            while(sum  >= target && left < n){
+            while(sum  >= target){
                 sum -= nums[left];
                 length =min(length , (right - left + 1));
                 left++;
