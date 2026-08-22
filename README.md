@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pankajshah93/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajshah93/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
