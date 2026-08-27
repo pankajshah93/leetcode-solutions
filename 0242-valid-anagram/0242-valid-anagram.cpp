@@ -6,12 +6,12 @@ public:
         if(n != m){
             return 0;
         }
-        vector<int>freq(128,0);
+        vector<int>freq(26,0);
         for(char  x : s){
-            freq[x]++;
+            freq[x - 'a']++;
         }
         for(char  x : t){
-            freq[x]--;
+            freq[x - 'a']--;
         }
         for(int x : freq){
             if(x != 0){
