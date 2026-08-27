@@ -6,16 +6,15 @@ public:
         if(n != m){
             return 0;
         }
-        vector<int>freq1(128,0);
-        vector<int>freq2(128,0);
+        vector<int>freq(128,0);
         for(char  x : s){
-            freq1[x]++;
+            freq[x]++;
         }
         for(char  x : t){
-            freq2[x]++;
+            freq[x]--;
         }
-        for(int i = 0; i < n; i++){
-            if(freq1[s[i]] != freq2[s[i]]){
+        for(int x : freq){
+            if(x != 0){
                 return 0;
             }
         }
