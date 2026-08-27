@@ -8,11 +8,11 @@ public:
         }
         vector<int>freq1(128,0);
         vector<int>freq2(128,0);
-        for(int  i= 0;i < n; i++){
-            freq1[s[i]]++;
+        for(char  x : s){
+            freq1[x]++;
         }
-        for(int  i= 0;i < m; i++){
-            freq2[t[i]]++;
+        for(char  x : t){
+            freq2[x]++;
         }
         for(int i = 0; i < n; i++){
             if(freq1[s[i]] != freq2[s[i]]){
