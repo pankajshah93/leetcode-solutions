@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/pankajshah93/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pankajshah93/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
