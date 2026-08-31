@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pankajshah93/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pankajshah93/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajshah93/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
