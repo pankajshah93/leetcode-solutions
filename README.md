@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pankajshah93/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pankajshah93/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/pankajshah93/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
