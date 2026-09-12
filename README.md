@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pankajshah93/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pankajshah93/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pankajshah93/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pankajshah93/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/pankajshah93/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/pankajshah93/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pankajshah93/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pankajshah93/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/pankajshah93/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pankajshah93/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/pankajshah93/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pankajshah93/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pankajshah93/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pankajshah93/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
