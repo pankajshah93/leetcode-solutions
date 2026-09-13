@@ -7,8 +7,8 @@ public:
         for(int i = 0; i < n; i++){
             int u = pre[i][0];
             int v = pre[i][1];
-            adj[u].push_back(v);
-            inDegree[v]++;
+            adj[v].push_back(u);
+            inDegree[u]++;
         }
         queue<int>q;
         for(int i = 0; i < num; i++){
