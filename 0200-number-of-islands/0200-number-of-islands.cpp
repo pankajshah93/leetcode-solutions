@@ -6,7 +6,7 @@ bool isvalid(int i,int j,int r,int c){
 void dfs(vector<vector<char>>& grid,int i,int j){
     grid[i][j] = '0';
     int r = grid.size();
-    int c = grid[0].size();
+    int c = grid[0].size(); 
     int row[4] = {0,0,1,-1};
     int col[4] = {1,-1,0,0};
     for(int k = 0; k < 4; k++){
