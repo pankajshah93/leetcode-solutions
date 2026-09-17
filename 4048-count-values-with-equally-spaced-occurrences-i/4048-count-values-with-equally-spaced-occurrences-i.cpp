@@ -8,11 +8,8 @@ public:
         int count = 0;
         for(auto x : mp){
             int size = x.second.size();
-            if(size == 3 &&
-             (x.second[1] - x.second[0] == x.second[2] - x.second[1])  
-            ){
+        if(size == 3 && x.second[1] - x.second[0] == x.second[2] - x.second[1])
                 count++;
-            }
         }
         return count;
     }
