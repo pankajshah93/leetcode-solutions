@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/pankajshah93/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajshah93/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankajshah93/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajshah93/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/pankajshah93/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajshah93/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pankajshah93/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pankajshah93/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/pankajshah93/leetcode-solutions/tree/master/3870-count-commas-in-range) |
