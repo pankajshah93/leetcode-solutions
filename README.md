@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pankajshah93/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pankajshah93/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pankajshah93/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/pankajshah93/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pankajshah93/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pankajshah93/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pankajshah93/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pankajshah93/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajshah93/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pankajshah93/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/pankajshah93/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pankajshah93/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
