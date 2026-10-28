@@ -1,13 +1,5 @@
 class Solution {
 public:
-void dfs( vector<int>adj[],int node,vector<int>&visited){
-    visited[node] = 1;
-    for(auto neigh : adj[node]){
-        if(!visited[neigh]){
-            dfs(adj,neigh,visited);
-        }
-    }
-}
     int findCircleNum(vector<vector<int>>& isConnected) {
         int  n = isConnected.size();
         vector<int>adj[n];
@@ -24,7 +16,20 @@ void dfs( vector<int>adj[],int node,vector<int>&visited){
         for(int i = 0; i < n; i++){
             if(visited[i] == 0){
                 count++;
-                dfs(adj,i,visited);
+                queue<int>qu;
+                qu.push(i);
+                visited[i] = 0;
+                while(!qu.empty()){
+                    int node = qu.front();
+                    qu.pop();
+                    for(int i = 0; i < adj[node].size();i++){
+                        int neigh = adj[node][i];
+                        if(visited[neigh] == 0){
+                            visited[neigh] = 1;
+                            qu.push(neigh);
+                        }
+                    }
+                }
             }
         }
         return count;
