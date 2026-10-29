@@ -7,7 +7,6 @@ bool isvalid(int i,int j,int n,int m){
         int n = grid.size();
         int m = grid[0].size();
         int count = 0;
-        vector<vector<int>>visited(n,vector<int>(m,0));
         queue<pair<int,int>>qu;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
@@ -27,7 +26,6 @@ bool isvalid(int i,int j,int n,int m){
                     int c[4] = {1,-1,0,0};
                     for(int k = 0; k < 4; k++){
                         if(isvalid(row + r[k],col + c[k],n,m) && grid[row + r[k]][col + c[k]] == 1){
-                            visited[row + r[k]][col + c[k]] = 1;
                             grid[row + r[k]][col + c[k]] = 2;
                             qu.push({row + r[k],col + c[k]});
                         }
