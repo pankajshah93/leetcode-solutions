@@ -1,45 +1,48 @@
 class Solution {
 public:
-bool isvalid(int i,int j,int r,int c){
-    return i >= 0 && i < r && j >= 0 && j < c;
+bool isvalid(int i,int j,int n,int m){
+    return i >= 0 && i < n && j >= 0 && j < m;
 }
     int orangesRotting(vector<vector<int>>& grid) {
-        queue<pair<int,int>>q;
-        int R = grid.size();
-        int C = grid[0].size();
-        for(int i = 0; i < R; i++){
-            for(int j = 0; j < C; j++){
+        int n = grid.size();
+        int m = grid[0].size();
+        int count = 0;
+        vector<vector<int>>visited(n,vector<int>(m,0));
+        queue<pair<int,int>>qu;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
                 if(grid[i][j] == 2){
-                    q.push({i,j});
-                } 
-            }
-        }
-        int timer = 0;
-        while(!q.empty()){
-            int  currentOrange = q.size();
-            timer++;
-            while(currentOrange--){
-                int i = q.front().first;
-                int j = q.front().second;
-                q.pop();
-                int row[4] = {0,0,-1,1};
-                int col[4] = {1,-1,0,0};
-                for(int k = 0; k< 4; k++){
-                    if(isvalid(i + row[k],j + col[k],R,C) &&
-                    grid[i + row[k]][j + col[k]] == 1){
-                        grid[i + row[k]][j + col[k]] = 2;
-                        q.push({i + row[k],j + col[k]});
-                    }
+                    qu.push({i,j});
                 }
+            }   
+        }        
+            while(!qu.empty()){
+                int size = qu.size();
+                    count++;
+                while(size > 0){
+                    int row = qu.front().first;
+                    int col = qu.front().second;
+                    qu.pop();
+                    int r[4] = {0,0,1,-1};
+                    int c[4] = {1,-1,0,0};
+                    for(int k = 0; k < 4; k++){
+                        if(isvalid(row + r[k],col + c[k],n,m) && grid[row + r[k]][col + c[k]] == 1){
+                            visited[row + r[k]][col + c[k]] = 1;
+                            grid[row + r[k]][col + c[k]] = 2;
+                            qu.push({row + r[k],col + c[k]});
+                        }
+                    }
+                    size--;
+                }    
+                
             }
-        }
-        for(int i = 0; i < R; i++){
-            for(int j = 0; j < C; j++){
+         for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
                 if(grid[i][j] == 1){
                     return -1;
                 }
             }
-        }
-        return timer == 0?timer : timer- 1;
+         }  
+        return count == 0?count : count - 1;
     }
 };
