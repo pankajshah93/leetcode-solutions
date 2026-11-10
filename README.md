@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankajshah93/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankajshah93/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pankajshah93/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/pankajshah93/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pankajshah93/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
+| [3693-climbing-stairs-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
