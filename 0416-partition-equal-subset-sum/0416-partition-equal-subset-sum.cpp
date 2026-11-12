@@ -14,30 +14,26 @@ public:
 // }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int sum = 0;
-        for(int i = 0; i < n; i++){
-            sum+= nums[i];
-        }
         int target = 0;
-        if(sum%2 == 0){
-            target = sum/2;
-        }else{
+        for(int i = 0; i < n; i++){
+            target+= nums[i];
+        }
+        if(target%2){
             return 0;
-        };
+        }
+        target /=2;
         vector<int>prev(target+1,0);
         prev[0] = 1;
         if(nums[0] <= target)
         prev[nums[0]] = 1;
         for(int i = 1 ; i < n; i++){
-            vector<int>curr(target+1,0);
-            for(int j = 0; j <= target; j++){
+            for(int j = target; j >= 0; j--){
                 if(j-nums[i] >= 0){
-                    curr[j] = prev[j] || prev[j-nums[i]];
+                    prev[j] = prev[j] || prev[j-nums[i]];
                 }else{
-                    curr[j] = prev[j];
+                    prev[j] = prev[j];
                 }
             }
-            prev = curr;
         }
         return prev[target];
     }
