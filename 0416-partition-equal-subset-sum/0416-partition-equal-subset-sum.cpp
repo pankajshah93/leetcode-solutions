@@ -4,13 +4,13 @@ bool subset(vector<int>&nums,int index,int target,vector<vector<int>>&dp){
     if(target == 0){
         return 1;
     }
-    if(index < 0 || target < 0){
+    if(index == 0 || target < 0){
         return 0;
     }
     if(dp[index][target] != -1){
         return dp[index][target];
     }
-    return dp[index][target] =  subset(nums,index-1,target,dp) || subset(nums,index-1,target - nums[index],dp);
+    return dp[index][target] =  subset(nums,index-1,target,dp) || subset(nums,index-1,target - nums[index-1],dp);
 }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -24,7 +24,7 @@ bool subset(vector<int>&nums,int index,int target,vector<vector<int>>&dp){
         }else{
             return 0;
         };
-        vector<vector<int>>dp(n,vector<int>(target+1,-1));
-        return subset(nums,n-1,target,dp);
+        vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
+        return subset(nums,n,target,dp);
     }
 };
