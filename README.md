@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pankajshah93/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/pankajshah93/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/pankajshah93/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pankajshah93/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/pankajshah93/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pankajshah93/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pankajshah93/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/pankajshah93/leetcode-solutions/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [3693-climbing-stairs-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
@@ -450,10 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pankajshah93/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pankajshah93/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pankajshah93/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/pankajshah93/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
