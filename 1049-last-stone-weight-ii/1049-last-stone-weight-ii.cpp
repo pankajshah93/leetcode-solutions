@@ -24,8 +24,7 @@ public:
             }
         }
         int result = 0;
-        result = sum - index;
-        result-=index;
+        result = sum - index-index;
         return result;
     }
 };
